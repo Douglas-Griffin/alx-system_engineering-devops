@@ -34,3 +34,4 @@ Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be cre
 Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
